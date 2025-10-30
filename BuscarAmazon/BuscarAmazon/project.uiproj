@@ -1,0 +1,6 @@
+{
+  "Name": "BuscarAmazon",
+  "ProjectType": "Process",
+  "Description": "Buscar Produtos na Amazon e Salvar",
+  "MainFile": "Main.xaml"
+}
