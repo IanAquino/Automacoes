@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Nova guia",
+  "Type": "Screen",
+  "Id": "0sV5sI7F2EuTKDDETkAXEA",
+  "Reference": "F8ftXXtWGEeXSjY9KYrfcQ/0sV5sI7F2EuTKDDETkAXEA",
+  "ParentRef": "F8ftXXtWGEeXSjY9KYrfcQ/4aJnJdnvCUCZ7B7mU2B5Mw",
+  "Created": "2025-10-30T16:55:24.2212562Z",
+  "Updated": "2025-10-30T16:55:24.2212562Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

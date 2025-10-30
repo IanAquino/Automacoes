@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="dkyYcHviGkipgYFDAKje4A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.es" CVScreenId="3f22ccdf-93dd-48fd-8f2a-b38309bb2cd3" CvElementArea="430, 135, 977, 42" CvType="InputBox" DesignTimeRectangle="439, 138, 964, 38" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='twotabsearchtextbox' tag='INPUT' type='text' class='nav-input nav-progressive-attribute' placeholder='Pesquisar Amazon.es' aaname='Pesquisar Amazon.es' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="1856053d-d069-4425-abb8-821d5bfa8699" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Amazon.es: compra online de eletrónica, livros, desporto, casa, moda e muito mais.' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="295, 137, 289, 35" ElementType="DropDown" FullSelectorArgument="&lt;webctrl id='searchDropdownBox' tag='SELECT' /&gt;" Guid="46e76ad0-dddc-4d0e-9038-f789737aad9b" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="cb0c2de9d926c059c15f9d0e5bc079f0.png" xmlns="">0pfQbJWNwqUCiyw8Lu1Ekbg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
