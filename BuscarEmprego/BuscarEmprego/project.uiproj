@@ -1,0 +1,6 @@
+{
+  "Name": "BuscarEmprego",
+  "ProjectType": "Process",
+  "Description": "Buscar Emprego em sites de emprego e salvar",
+  "MainFile": "Main.xaml"
+}
