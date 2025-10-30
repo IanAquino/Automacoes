@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Amazon Basics Filamento…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "HOxZwE0EekyijXUPJglhUQ",
+  "Reference": "F8ftXXtWGEeXSjY9KYrfcQ/HOxZwE0EekyijXUPJglhUQ",
+  "ParentRef": "F8ftXXtWGEeXSjY9KYrfcQ/0sV5sI7F2EuTKDDETkAXEA",
+  "Created": "2025-10-30T17:56:33.6705226Z",
+  "Updated": "2025-10-30T17:56:33.6705226Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

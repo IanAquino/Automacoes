@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="nI_fSm_Vu0eWCTA7UJ0IEg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.es" CVScreenId="99029573-9c28-4a9d-b6f0-58fb9a2a00c0" CvElementArea="1417, 134, 49, 44" CvType="Button" DesignTimeRectangle="1418, 137, 45, 40" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='nav-search-submit-button' tag='INPUT' /&gt;" Guid="9337087f-e690-4f9d-9f84-fa09b79dee6c" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Amazon.es: compra online de eletrónica, livros, desporto, casa, moda e muito mais.' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="b649907abba2deb0f48b29b9d8bc36cb.png" xmlns="">0uZ9tSIgbj0uiDzeDmNHutg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="SfzZ1WPdN0GCy87AYDPzYg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.es/s" DesignTimeRectangle="377, 678, 273, 96" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aria-label='Anúncio patrocinado – Amazon Basics Filamento para impressora 3D, ácido polilático (SILK PLA), 1,75 mm, carretel de 1 kg, dourado seda' tag='H2' /&gt;" Guid="0ba244c4-2da3-4b44-b777-801aa27b5257" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Amazon.es : Filamento' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="a8015b315fd7abf6c9777b8ed8ae29b9.png" xmlns="">0lj0p6_LGMEiShRIT1VTZ7g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
