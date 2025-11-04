@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="To3ZVF1Os0uaq0R_w-m91w" Reference="LO78qYU-zkCm7zg968d_gw/trDT5OhnREucHmz5TD79gg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-1928, -8, 1936, 1048" BrowserType="Edge" ContentHash="CdNweuQUEUqEt-vLq952Fg" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAWJQAAFiUBSVIk8AAAASdJREFUWEftl9sNwjAQBK8ESqAUOoEOoAMogY4ohRIoAbQoJ1m2JyHJ8gUjWYq89q3j+HGJ+NOyi4hbRDwi4mksirmvzWrOnY7uIo8uh6LRJSI2dYOBbDMHxToVfTXLDZoiiWo4xpIBJHox9ZVXQwamN0/WDECx1Vfrq+HTwLk4t7XwIeiDQkVO49rSgEKHq2GbNqBgBn1QMIM+KJhBHxTMoA8KZtAHBTPoQ4JuMG25e3Wbza1PyAcFBUqtPELn1ifkg0J54Cj40vqEfFDQNa1ACqznpfUJ+bBgBn1QMIM+KJhBHxTMoA8KZtAnt89USraGTMm6A8ikVBnPtzgOHt2kVKlyjk6ZsXMmFKv85+gd0W9c+d5YmZxhnV75OVxF60sxuz8kv80LzI8Nz/1reB8AAAAASUVORK5CYII=" Reference="LO78qYU-zkCm7zg968d_gw/trDT5OhnREucHmz5TD79gg" Selector="&lt;html app='msedge.exe' url='www.net-empregos.com' /&gt;" Url="www.net-empregos.com" Version="V2">
+      <imageRef attrName="InformativeScreenshot" originalValue="518db8b76030bbc5d1193035e22ad0f1.png" xmlns="">0k8Osht0rMk-TUwRiaW5vBw</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

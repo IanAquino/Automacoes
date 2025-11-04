@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="-BS2ZNUdpkS1vRb10lJMVw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="net-empregos.com" CVScreenId="cc366a5a-edaf-465e-a077-45cdb038835f" CvElementArea="283, 626, 345, 47" CvTextArea="416, 641, 103, 18" CvTextArgument="PESQUISAR" CvType="Button" DesignTimeRectangle="286, 628, 340, 45" ElementType="Button" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='pesquisar' tag='BUTTON' type='' class='btn button-theme btn-search btn-block  btn-ripple btn-lg' aaname='                                                                                                                                                     Pesquisar                                                                                             ' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='PESQUISAR' /&gt;" Guid="e94cd3d3-a7e2-44e6-80d4-9bdcd3aaa1d8" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Net-Empregos - O maior portal de Emprego de Portugal' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="cc366a5a-edaf-465e-a077-45cdb038835f" CvElementArea="283, 626, 345, 47" CvTextArea="416, 641, 103, 18" CvTextArgument="PESQUISAR" CvType="Button" DesignTimeRectangle="417, 639, 104, 22" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='STRONG' type='' class='' aaname=' Pesquisar' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='PESQUISAR' /&gt;" Guid="e457a92d-e6b6-42ce-a41c-5e8cbb116a76" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="72f623be57b9cc42a400b3af0effb533.png" xmlns="">0tm_DC5AaX0idIYkSqWPgSw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

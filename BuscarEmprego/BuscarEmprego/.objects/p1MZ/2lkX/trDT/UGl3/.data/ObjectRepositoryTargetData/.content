@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="rlg2gmOwE0qgUeX_sfPkVQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="net-empregos.com" CVScreenId="e02e1bf6-597a-4049-b9dd-d06d44ca54f6" CvTextArea="340, 522, 134, 17" CvTextArgument="( Todas as Zonas )" CvType="Text" DesignTimeRectangle="286, 512, 340, 36" ElementType="DropDown" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='zona' tag='SELECT' /&gt;" Guid="95af2624-7ce2-4c4a-85a3-fde942827928" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Net-Empregos - O maior portal de Emprego de Portugal' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="325336a195f63ab892d306d6ce3cd990.png" xmlns="">066wt2RQck0Kf-W9f_gzqQw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

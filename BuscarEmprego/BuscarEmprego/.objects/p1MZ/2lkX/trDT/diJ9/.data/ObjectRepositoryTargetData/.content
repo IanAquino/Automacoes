@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="R4aFfgNw8UOkSAWoXq_yLw" Reference="LO78qYU-zkCm7zg968d_gw/diJ99KK4E0iYz7aZSDZ0Kw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.net-empregos.com/pesquisa-empregos.asp?chaves=&amp;cidade=&amp;categoria=0&amp;zona=7&amp;tipo=0" ContentHash="rt0lizbKokirShW6YEH8Hg" DesignTimeRectangle="241, 227, 1440, 4407" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl class='row' tag='DIV' /&gt;" Guid="615bb1ec-c6ed-4090-96f3-dea338e5d3fb" Reference="LO78qYU-zkCm7zg968d_gw/diJ99KK4E0iYz7aZSDZ0Kw" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Emprego Guarda - Novembro 2025 | 219 Ofertas | Net-Empregos' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="d0dc72311dcf71e86daa531aef99ada9.png" xmlns="">0CTFj9Bqt9E6K6OgS4lcnKA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">ExtractData</x:String>
+    <p:InArgument x:TypeArguments="x:String" x:Key="ExtractDataSettings" xml:space="preserve">&lt;Table xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xsd='http://www.w3.org/2001/XMLSchema' Type='Structured' AddCvHeader='true' IsScrollEnabled='false'&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='Column0' Name='Titulo'&gt;
+		&lt;IsValidName&gt;true&lt;/IsValidName&gt;
+		&lt;ValidationErrorMessage /&gt;
+		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
+		&lt;CanExtractSimilar&gt;true&lt;/CanExtractSimilar&gt;
+		&lt;Format xsi:type='TextColumnFormat' /&gt;
+	&lt;/Column&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='Column1' Name='URL'&gt;
+		&lt;IsValidName&gt;true&lt;/IsValidName&gt;
+		&lt;ValidationErrorMessage /&gt;
+		&lt;IsExtra&gt;true&lt;/IsExtra&gt;
+		&lt;CanExtractSimilar&gt;true&lt;/CanExtractSimilar&gt;
+		&lt;Format xsi:type='TextColumnFormat' /&gt;
+	&lt;/Column&gt;
+&lt;/Table&gt;</p:InArgument>
+    <x:Null x:Key="NextLinkTarget" />
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

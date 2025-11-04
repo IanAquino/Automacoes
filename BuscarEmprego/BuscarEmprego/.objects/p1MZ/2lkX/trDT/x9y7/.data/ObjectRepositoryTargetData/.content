@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="3D5RtE4-nkmcvaOUJ_mi-w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="net-empregos.com/pesquisa-empregos.asp" CVScreenId="6bdd2cd8-031a-4702-85c9-bdd0920ce05e" CvElementArea="1177, 275, 24, 24" CvType="CloseButton" DesignTimeRectangle="1176, 269, 25, 30" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl class='sp-prompt-close' tag='BUTTON' /&gt;" Guid="3992a510-f15f-4e1c-a4b6-0acaf20fc846" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Emprego Guarda - Novembro 2025 | 219 Ofertas | Net-Empregos' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="1d0ce5dfbd590c7196eb562a8f7857f9.png" xmlns="">0eJjnmlH5a0eU68I2oMJJ9g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
